@@ -1,6 +1,8 @@
+/* Custom CSS styles */
 
+/* Navbar styles */
 .navbar {
-  margin-bottom: 0; */
+  margin-bottom: 0; /* Ensures no gap between navbar and content */
 }
 
 .navbar-brand {
